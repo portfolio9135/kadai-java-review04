@@ -9,7 +9,7 @@ public class Review03 {
 		BaseBallTeam baseballteam04 = new BaseBallTeam("読売ジャイアンツ", 68, 72, 3);
 		BaseBallTeam baseballteam05 = new BaseBallTeam("広島東洋カープ", 66, 74, 3);
 		BaseBallTeam baseballteam06 = new BaseBallTeam("中日ドラゴンズ", 66, 75, 2);
-		
+
 		baseballteam01.report();
 		baseballteam02.report();
 		baseballteam03.report();
